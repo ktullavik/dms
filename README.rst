@@ -1,10 +1,3 @@
-Funding
-=======
-
-dms is looking for funding for further development. See https://github.com/sponsors/anacrolix and the issues list if you have something specific in mind. Thank you for your support!
-
-dms
-===
 
 dms is a UPnP DLNA Digital Media Server. It runs from the terminal, and serves
 content directly from the filesystem from the working directory, or the path
